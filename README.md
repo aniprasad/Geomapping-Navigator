@@ -1,0 +1,1 @@
+A simple android app that would tell you the shortest distance between two points on a map and would give you directions to the destination
